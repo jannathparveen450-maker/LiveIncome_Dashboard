@@ -1,2 +1,16 @@
-# LiveIncome_Dashboard
-Live Income Dashboard built with Streamlit to analyze and visualize income data through interactive charts and KPIs using Python, Pandas, and Plotly.
+# 💸 Live Income Dashboard
+
+An interactive **Streamlit dashboard** that visualizes income data using dynamic charts and KPIs.
+
+## 🚀 Features
+- Real-time data visualization
+- Interactive charts using Plotly
+- Key performance indicators (KPIs)
+- Clean and responsive dashboard layout
+
+## 🛠️ Technologies Used
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Plotly
